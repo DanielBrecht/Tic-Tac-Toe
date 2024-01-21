@@ -1,0 +1,26 @@
+crosses:
+screen.blit(cross_img, (35,35))        #0
+screen.blit(cross_img, (268, 35))     #1
+screen.blit(cross_img, (495, 35))     #2
+
+screen.blit(cross_img, (35, 266))     #3
+screen.blit(cross_img, (268, 266))   #4
+screen.blit(cross_img, (495, 266))   #5
+
+screen.blit(cross_img, (35, 497))     #6
+screen.blit(cross_img, (268, 497))   #7
+screen.blit(cross_img, (495, 497))   #8
+
+
+circles:
+screen.blit(circle_img, (35, 35))      #0
+screen.blit(circle_img, (265, 35))    #1
+screen.blit(circle_img, (495, 35))    #2
+
+screen.blit(circle_img, (35, 266))    #3
+screen.blit(circle_img, (265, 266))  #4
+screen.blit(circle_img, (495, 266))  #5
+
+screen.blit(circle_img, (35, 497))    #6
+screen.blit(circle_img, (265, 497))  #7
+screen.blit(circle_img, (495, 497))  #8
